@@ -8,7 +8,7 @@ The dataset used for this project is the [IMDb Dataset of 50K Movie Reviews](htt
 ## Features
 - Data Collection: Scripts for scraping IMDb movie reviews or importing the Kaggle dataset.
 - Preprocessing: Code for cleaning and preparing the text data for sentiment analysis.
-- Sentiment Analysis Model: Implementation of machine learning or deep learning models for sentiment classification.
+- Sentiment Analysis Model: Implementation of feature engineering and logistic regression model for sentiment classification.
 - Visualization: Tools for visualizing sentiment analysis results and trends.
 
 ## Usage
